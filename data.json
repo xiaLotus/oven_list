@@ -1,0 +1,86 @@
+{
+    "Bank1": {
+        "K19": {
+            "status": "open",
+            "history": ["測試", "test", "啊哈花瓜"]
+        },
+        "K09": {
+            "status": "closed",
+            "history": []
+        },
+        "K13": {
+            "status": "open",
+            "history": []
+        },
+        "K11": {
+            "status": "closed",
+            "history": []
+        },
+        "K21": {
+            "status": "open",
+            "history": []
+        },
+        "K32": {
+            "status": "closed",
+            "history": []
+        },
+        "K10": {
+            "status": "open",
+            "history": []
+        },
+        "K14": {
+            "status": "closed",
+            "history": []
+        },
+        "K12": {
+            "status": "open",
+            "history": []
+        },
+        "K22": {
+            "status": "closed",
+            "history": []
+        }
+    },
+    "Bank2": {
+        "405": {
+            "status": "closed",
+            "history": []
+        },
+        "K07": {
+            "status": "open",
+            "history": []
+        },
+        "K05": {
+            "status": "closed",
+            "history": []
+        },
+        "K17": {
+            "status": "open",
+            "history": []
+        },
+        "419": {
+            "status": "closed",
+            "history": []
+        },
+        "406": {
+            "status": "open",
+            "history": []
+        },
+        "K08": {
+            "status": "closed",
+            "history": []
+        },
+        "K06": {
+            "status": "open",
+            "history": []
+        },
+        "K18": {
+            "status": "closed",
+            "history": []
+        },
+        "420": {
+            "status": "open",
+            "history": []
+        }
+    }
+}
